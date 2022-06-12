@@ -1,7 +1,7 @@
 # 1 Шаблон "документа" DocumentTemplateModel
 # 2 Поля "документа" для ввода пользователем DocumentFieldModel
 # 3 Данные полей DocumentDataModel
-# алгоритм: Загрузка шаблона по ID=> Загрузка полей () 
+# алгоритм: Загрузка шаблона по ID=> Загрузка полей => Загрузка данных полей
               
 #  Controllers              
 # documentTemplates -Контроллер по сохранению/загрузке Шаблона (DocumentTemplateModel)
